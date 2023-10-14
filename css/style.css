@@ -1,0 +1,177 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+button {
+    cursor: pointer;
+}
+
+h2 {
+    color: #2E2F42;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.list {
+    list-style-type: none;
+}
+
+.link {
+    text-decoration: none;
+}
+
+/* ================ MENU SECTION ================ */
+
+.logotype {  
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.logotype .accent-color {
+    color: #4D5AE5;
+}
+
+.header-logotype {
+    color: #2E2F42;
+}
+
+.page-header {
+    background-color: #FFFFFF;
+}
+
+.menu-link {
+    color:#2E2F42;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.menu-link:hover, .menu-link:focus {
+    color: #404BBF;
+}
+
+.contact-link {
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.contact-link:hover, .contact-link:focus {
+    color: #404BBF;
+}
+
+/* ================ /MENU SECTION ================ */
+
+
+/* ================ HERO SECTION ================ */
+
+.hero {
+    background-color: #2E2F42;
+}
+
+.main-title {
+    text-align: center;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 1.12px;
+    color: #FFFFFF;
+}
+
+.order-service-btn {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.004em;
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+}
+
+.order-service-btn:hover, .order-service-btn:focus { 
+    background-color: #404BBF;
+}
+
+/* ================ /HERO SECTION ================ */
+
+/* ================ FEATURES SECTION ================ */
+
+.features-list-title {
+    text-align: left;
+}
+
+.features-list-text {
+    text-align: left;
+}
+
+/* ================ /FEATURES SECTION ================ */
+
+
+/* ================ TEAM SECTION ================ */
+
+.team {
+    background-color: #F4F4FD;
+}
+
+.team-list-title {
+    text-align: center;
+}
+
+.team-list-text {
+    text-align: center;
+}
+
+/* ================ /TEAM SECTION ================ */
+
+
+/* ================ PORTFOLIO SECTION ================ */
+
+.portfolio-list-title {
+    text-align: left;
+}
+
+.portfolio-list-text {
+    text-align: left;
+}
+
+/* ================ /PORTFOLIO SECTION ================ */
+
+/* ================ PAGE FOOTER SECTION ================ */
+
+.page-footer {
+    background-color: #2E2F42;
+}
+
+.footer-logotype {
+    color: #F4F4FD;
+}
+
+.page-footer-text {
+    color: #F4F4FD;
+}
+
+/* ================ /PAGE FOOTER SECTION ================ */

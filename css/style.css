@@ -53,7 +53,7 @@ p {
 }
 
 .logotype .accent-color {
-    color: #2e2f42;
+    color: #2E2F42;
 }
 
 .header-logotype {
@@ -74,6 +74,10 @@ p {
 
 .menu-link:hover, .menu-link:focus {
     color: #404BBF;
+}
+
+.contacts {
+    font-style: normal;
 }
 
 .contact-link {

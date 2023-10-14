@@ -53,11 +53,7 @@ p {
     color: #4d5ae5;
 }
 
-.logotype .accent-color {
-    color: #2E2F42;
-}
-
-.header-logotype {
+.header-logotype .accent-color{
     color: #2E2F42;
 }
 
@@ -180,6 +176,10 @@ p {
 
 .footer-logotype {
     color: #4d5ae5;
+}
+
+.footer-logotype .accent-color {
+    color: #f4f4fd;
 }
 
 .page-footer-text {

@@ -145,6 +145,10 @@ p {
     background-color: #F4F4FD;
 }
 
+.team-list-item {
+    background-color: #FFFFFF
+}
+
 .team-list-title {
     text-align: center;
 }
@@ -175,7 +179,7 @@ p {
 }
 
 .footer-logotype {
-    color: #F4F4FD;
+    color: #4d5ae5;
 }
 
 .page-footer-text {
